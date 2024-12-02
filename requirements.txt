@@ -1,1 +1,10 @@
 Flask==3.0.3
+torchsummary
+flask
+flask-cors
+numpy
+matplotlib
+pandas
+pillow
+torch
+torchvision
