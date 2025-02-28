@@ -1,5 +1,11 @@
+torchsummary
 flask
 flask-cors
+pandas
+numpy
+matplotlib
 pillow
 torch
 torchvision
+gunicorn
+huggingface_hub
